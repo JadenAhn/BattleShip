@@ -1,0 +1,6 @@
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+D:\Dropbox\Coding\CS\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
